@@ -1,0 +1,17 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	pwd allows user to see what directory you're in. cd get into a new 
+directory. ls see the content of the directory you're in. My computer 
+terminal is in bash
+
+2. Do you have pets? What kind?
+	No I don't have pets
+
+3. If you run across an error, what would your first course of action be?
+	I would google the error
+
+4. Funniest thing that happened to you in high school.
+	falling down the stairs
+
+5. What is a python script? (Keep it simple)
+	I would say it is a set of instructions 
+
